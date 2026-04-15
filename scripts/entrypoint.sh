@@ -49,7 +49,7 @@ MAX_TURNS="${MAX_TURNS:-}"
 ALLOWEDTOOLS="${ALLOWEDTOOLS:-}"
 DISALLOWEDTOOLS="${DISALLOWEDTOOLS:-}"
 SUB_PATH="${SUB_PATH:-}"
-SANDBOX="${SANDBOX:-}"
+SANDBOX="${SANDBOX:-none}"
 
 echo "Source:      ${SOURCE_URL}"
 echo "Model:       ${MODEL:-<default>}"
