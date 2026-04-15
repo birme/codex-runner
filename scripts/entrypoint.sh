@@ -49,7 +49,7 @@ MAX_TURNS="${MAX_TURNS:-}"
 ALLOWEDTOOLS="${ALLOWEDTOOLS:-}"
 DISALLOWEDTOOLS="${DISALLOWEDTOOLS:-}"
 SUB_PATH="${SUB_PATH:-}"
-SANDBOX="${SANDBOX:-workspace-write}"
+SANDBOX="${SANDBOX:-danger-full-access}"
 
 echo "Source:      ${SOURCE_URL}"
 echo "Model:       ${MODEL:-<default>}"
